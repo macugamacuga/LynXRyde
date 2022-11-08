@@ -1,1 +1,1 @@
-# LynXRyde is a version of a ride share app .
+# LynXRyde is a ride share app .
